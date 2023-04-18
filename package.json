@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-vue": "^4.1.0",
+        "axios": "^1.1.2",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^0.7.2",
+        "sass": "^1.56.1",
+        "vite": "^4.0.0",
+        "vite-plugin-html": "^3.2.0"
+    },
+    "dependencies": {
+        "datetimepicker": "^0.1.39",
+        "flatpickr": "^4.6.13",
+        "fullcalendar": "^6.1.5",
+        "jquery": "^3.6.4"
+    }
+}
