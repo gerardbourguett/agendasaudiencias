@@ -19,6 +19,7 @@
         "datetimepicker": "^0.1.39",
         "flatpickr": "^4.6.13",
         "fullcalendar": "^6.1.5",
-        "jquery": "^3.6.4"
+        "jquery": "^3.6.4",
+        "vercel": "^28.18.5"
     }
 }
